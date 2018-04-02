@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: pedro
- * Date: 18/11/2017
- * Time: 15:28
- */
 
 namespace Vehicles;
 
