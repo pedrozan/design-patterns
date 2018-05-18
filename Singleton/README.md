@@ -1,4 +1,4 @@
-# Factory Design Pattern
+# Singleton Design Pattern
 
 This pattern is to be used when you can only have one instance of the object. Things like database connection or logging are examples of use cases for singletons.
 
