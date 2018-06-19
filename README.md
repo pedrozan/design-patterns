@@ -19,6 +19,7 @@ These are patterns that deal with object creation. They tend to hide creation lo
 Here are listed the patterns that deal with composition and inheritance. They use interfaces to compose objects and develop new functionalities.
 
 - [Adapter Pattern](Adapter)
+- [Bridge Pattern](Bridge)
 
 ### Behavioral Patterns
 
