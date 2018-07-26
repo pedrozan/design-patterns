@@ -25,4 +25,5 @@ Here are listed the patterns that deal with composition and inheritance. They us
 
 Behavioral patterns are concerned with communication between objects.
 
+- [Chain of Responsibility Pattern](ChainOfResponsibility)
 - [Strategy Pattern](https://github.com/pedrozan/design-patterns/tree/master/Strategy)
