@@ -12,6 +12,7 @@ The patterns are separated accordingly to its type.
 These are patterns that deal with object creation. They tend to hide creation logic to give more flexibility.
 
 - [Factory Pattern](https://github.com/pedrozan/design-patterns/tree/master/Factory)
+- [Prototype Pattern](Prototype)
 - [Singleton Pattern](Singleton)
 
 ### Structural Patterns
