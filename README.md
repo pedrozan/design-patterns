@@ -21,6 +21,7 @@ Here are listed the patterns that deal with composition and inheritance. They us
 
 - [Adapter Pattern](Adapter)
 - [Bridge Pattern](Bridge)
+- [Composite Pattern](Composite)
 
 ### Behavioral Patterns
 
